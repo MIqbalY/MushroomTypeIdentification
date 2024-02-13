@@ -1,2 +1,2 @@
-# Identifikasi Jenis Jamur menggunakan Metode Support Vector Machine dengan Metode Ektraksi Fitur Local Binary Pattern
-Sebuah proyek tugas akhir
+# Identifikasi Jamur
+Sebuah proyek tugas akhir menggunakan metode Support Vector Machine dengan Metode ekstraksi fitur Local Binary Pattern untuk Identifikasi Jenis Jamur
